@@ -1,0 +1,13 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-size: small;
+}
+
+table, tr, th, td {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+td, th {
+    padding: 4px 8px;
+}
